@@ -8,3 +8,5 @@ Siamese Network [cert](https://www.coursera.org/account/accomplishments/verify/G
 Build an AutoEncoder [cert](https://www.coursera.org/account/accomplishments/verify/DDNU2Q4JZ73Q)<br>
 GradCAM [cert](https://www.coursera.org/account/accomplishments/verify/DMYEXDAKMWM2)<br>
 Image Segmentation [cert](https://www.coursera.org/account/accomplishments/verify/5GGPPLQEWCEC)<br>
+Pneumonia Classification on X-Ray images [cert](https://www.coursera.org/account/accomplishments/verify/AHRRPA26GHHL)<br>
+
